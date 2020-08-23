@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	config "github.com/39499740/goconfig"
+	config "github.com/keonjeo/goconfi:g"
 	//"github.com/hxllyl/goconfig"
 )
 
@@ -22,6 +22,7 @@ func (e Errno) Error() string {
 		errmsg += "File Exist"
 	case 22:
 		errmsg += "Argument Invlid"
+
 	}
 	return errmsg
 }
