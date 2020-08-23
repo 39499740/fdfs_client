@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	config "github.com/keonjeo/goconfig"
+	config "github.com/39499740/goconfig"
 	//"github.com/hxllyl/goconfig"
 )
 

@@ -1,3 +1,3 @@
-module github.com/keonjeo/fdfs_client
+module github.com/39499740/fdfs_client
 
 go 1.12
